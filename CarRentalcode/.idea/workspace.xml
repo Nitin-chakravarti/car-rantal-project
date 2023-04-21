@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32348b03-3051-4f54-a6da-d2b0dedd7ec6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarRentalReport.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ERandDATADICTIONARY.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/LoginCredentials.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/change-password.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/changeimage1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/changeimage2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/changeimage3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/changeimage4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/changeimage5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/create-brand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/create-offer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/awesome-bootstrap-checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap-social.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/css/vars.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/fileinput.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/less/components.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/less/vars.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/edit-brand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/edit-vehicle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/ts-avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/2018-Hyundai-Creta-Diesel-128129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/2018-Hyundai-Creta-Diesel-128132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/2018-Hyundai-Creta-Diesel-128134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/Datsun-RediGO-Right-Front-Three-Quarter-91418.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/Hyundai-Creta-Interior-128135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/Hyundai-Creta-Interior-128136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/Hyundai-Elite-i20-Exterior-131652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/Hyundai-Elite-i20-Exterior-131655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/Hyundai-Elite-i20-Interior-131680.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/Hyundai-Elite-i20-Rear-view-131682.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/Hyundai-Elite-i20-left-rear-three-quarter-131661.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/datsun-redi-go-amt-500x500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/datsun-redi-go-right_600x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/img/vehicleimages/kisspng-datsun-redi-go-gold-datsun-redi-go-a-india-datsun-nissan-car-5ac484a838e6a7.0349170515228284562331.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/includes/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/includes/leftbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/jjj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/bootstrap-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/bootstrap-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/chartData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/fileinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manage-bookings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manage-brands.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manage-conactusquery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manage-offers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manage-pages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manage-subscribers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manage-vehicles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/nicEdit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/nicEditorIcons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/post-avehical.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/reg-users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/testimonials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/update-contactinfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-slider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/grabbing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont3e6e.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont3e6e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont3e6e.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont3e6e.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont3e6e.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about_services_faq_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about_us_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about_us_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about_us_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about_us_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/aboutus-page-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/addmore_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/banner-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/banner-image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/banner-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/blog-page-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/blog_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/blog_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/blog_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/blog_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/brand-logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/brand-logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/brand-logo-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/brand-logo-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/brand-logo-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/car_755x430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cat-profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/change_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coming_soon_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/comment-author-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/comment-author-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/comment-author-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/compare-page-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/contact-page-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dealer-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dealer_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/error404-page-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/facts_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicon-icon/apple-touch-icon-114-precomposed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicon-icon/apple-touch-icon-144-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicon-icon/apple-touch-icon-57-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicon-icon/apple-touch-icon-72-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicon-icon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/featured-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/featured-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/featured-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/fun-facts-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/help_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/img_390x390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/knowledge_base_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/listing-detail-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/listing-page-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/listing_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/listing_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/listing_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/listing_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/listing_img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/looking-new-car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/looking-used-car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/our_services_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/our_services_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/our_team_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/our_team_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/our_team_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/post_200x200_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/post_200x200_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/post_200x200_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/post_200x200_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/profile-page-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-car-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-car-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-car-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-car-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-car-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/recent-car-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/services-page-header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/support_faq_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonial-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonial-content-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonial-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonial-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonial-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonial-img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/trending-car-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/trending-car-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/trending-car-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap-slider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/countdown_date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/interface.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/switcher/css/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/switcher/css/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/switcher/css/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/switcher/css/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/switcher/css/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/switcher/css/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/switcher/css/switcher.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/switcher/js/switcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car-listing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carrental.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_availability.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact-us.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/colorswitcher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/forgotpassword.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-booking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-testimonials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post-testimonial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectInfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-carresult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlfile/car.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/update-password.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vehical-details.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OjJsS3FTHFMuz2jMT2fYezWZKe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32348b03-3051-4f54-a6da-d2b0dedd7ec6" name="Changes" comment="" />
+      <created>1682068267108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682068267108</updated>
+    </task>
+    <servers />
+  </component>
+</project>
